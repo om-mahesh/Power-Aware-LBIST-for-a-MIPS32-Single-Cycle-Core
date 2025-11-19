@@ -1,0 +1,46 @@
+# Compiled VHDL files
+*.o
+*.cf
+*.exe
+*.obj
+
+# Simulation output files
+*.vcd
+*.ghw
+*.fst
+
+# LaTeX compilation files
+*.aux
+*.log
+*.out
+*.toc
+*.pdf
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+.idea/
+
+# Build artifacts
+work-obj*.cf
+*.cf
+
+# Log files
+*.log
+compile*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Keep important PDFs and VCDs (uncomment if needed)
+# !integration/*.pdf
+# !*.vcd
+
