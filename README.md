@@ -16,6 +16,9 @@ This project demonstrates a complete LBIST integration with a MIPS32 single-cycl
 - **System Safety**: Automatic NOP replacement for invalid instructions, preventing crashes
 
 ## 📊 Architecture
+![System Architecture](Architecture.png)
+
+*Complete system architecture showing LBIST → PLPF → Scan Chain → Validator → MIPS32 Processor flow*
 
 ### System Architecture Flow
 
